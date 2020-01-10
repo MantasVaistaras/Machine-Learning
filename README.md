@@ -6,3 +6,6 @@ The goal is to build a logistic regression model to predict whether a student ge
 
 ex2data1.txt -  the first training set
 ex2data2.txt - the second training set
+
+
+[dataset PIC] 
